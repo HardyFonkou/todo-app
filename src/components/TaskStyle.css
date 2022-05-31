@@ -1,0 +1,25 @@
+.task {
+  background-color: #eeeeee;
+  width: 500px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  padding: 25px;
+  margin: auto;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.task_buttons {
+  position: absolute;
+  right: 25px;
+}
+
+.edit_task_input {
+  margin: 14.5px 0;
+}
+
+.icon {
+  margin-left: 10px;
+  cursor: pointer;
+}
