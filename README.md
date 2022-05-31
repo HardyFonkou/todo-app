@@ -8,4 +8,4 @@ Elle permet
     de modifier la tâche
     de supprimer la tâche
 
-Cette SPA de type CRUD nous permet de parcourir les notions essentiels pour bien débuter en React JS ainsi que l'importance du typage dans le langage JavaScript.
+Cette SPA de type CRUD nous permet de parcourir les notions essentielles pour bien débuter en React JS ainsi que l'importance du typage dans le langage JavaScript.
